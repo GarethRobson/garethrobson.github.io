@@ -7,7 +7,7 @@
     font-family: Arial;
     margin: 0;
     padding: 0;
-    background-image: url("C:/users/garet/OneDrive/Documents/Webstuff/hwebsite/images/btilewhitebgnd.jpg");
+    background-image: url("/images/btilewhitebgnd.jpg");
   }
   
   /* Style the top navigation bar */
@@ -35,7 +35,7 @@
     position: relative;  
     padding: 60px;
     height: 20em;
-    background-image: url("C:/users/garet/OneDrive/Documents/Webstuff/hwebsite/images/banner4.jpeg");
+    background-image: url("/images/banner4.jpeg");
     background-position: left;
     background-size: cover;
   }
@@ -130,7 +130,7 @@
   .footer {
     padding: 20px;
     text-align: center;  
-    background-image: url("C:/users/garet/OneDrive/Documents/Webstuff/hwebsite/images/imgwhitebgnd.jpeg")
+    background-image: url("/images/imgwhitebgnd.jpeg")
   }
 
   /* Add a card effect for footer */
@@ -152,21 +152,21 @@
   .buttonlogo {
     width: 6em;
     border-radius: 0%;
-    background-image: url("C:/users/garet/OneDrive/Documents/Webstuff/hwebsite/images/logofullsize.jpeg");
+    background-image: url("/images/logofullsize.jpeg");
     background-size: cover;
     background-position: center;
   }
 
   .buttontwitter {
     border-radius: 10%;
-    background-image: url("C:/users/garet/OneDrive/Documents/Webstuff/hwebsite/images/twitter.png");
+    background-image: url("/images/twitter.png");
     background-size: cover;
     background-position: center;
   }
 
   .buttonfacebook {
     border-radius: 10%;
-    background-image: url("C:/users/garet/OneDrive/Documents/Webstuff/hwebsite/images/facebook.jpg");
+    background-image: url("/images/facebook.jpg");
     background-size: cover;
     background-position: center;
   }
