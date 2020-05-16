@@ -52,27 +52,24 @@
     /*border-radius: 10px; */
   }
   
+  /* Column container */
+  .row {  
+    display: flex;
+    flex-wrap: wrap;
+  }
+
   /* Create two unequal columns that floats next to each other */
   /* Left column */
   .main {
-    float: left;
-    width: 75%;
+    flex: 75%;
   }
 
   /* Right column */
   .side {
-    float: left;
-    width: 25%;
+    flex: 25%;
     padding-left: 20px;
   }
 
-  /* Column container */
-  .row {  
-      display: flex;
-      flex-wrap: wrap;
-      /* flex-direction: column; */
-  }
-  
   /* Flexboxes divs and boxes for the page */
   .fbox {
       flex: 30%;
