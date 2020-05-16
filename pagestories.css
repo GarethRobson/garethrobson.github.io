@@ -7,7 +7,7 @@
     font-family: Arial;
     margin: 0;
     padding: 0;
-    background-image: url("/images/btilewhitebgnd.jpg");
+    background-image: url("/images/btilewhitebgnd.JPG");
   }
   
   /* Style the top navigation bar */
@@ -130,7 +130,7 @@
   .footer {
     padding: 20px;
     text-align: center;  
-    background-image: url("/images/imgwhitebgnd.jpeg")
+    background-image: url("/images/btilewhitebgnd.JPG")
   }
 
   /* Add a card effect for footer */
