@@ -7,7 +7,7 @@
     font-family: Arial;
     margin: 0;
     padding: 0;
-    background-image: url("/images/backgroundtile.jpeg");
+    background-image: url("/images/btilewhitebgnd.jpeg");
   }
   
   /* Style the top navigation bar */
@@ -45,7 +45,7 @@
     background: rgba(245, 245, 245, 0.5);
     position: absolute;
     left: 30%;
-    top: 25%;
+    top: 23%;
     width: 40%;
     text-align: center;
     padding: 2.5em;
