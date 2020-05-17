@@ -32,6 +32,8 @@
 
   /* Header */
   .header {
+    display: inline-block;
+    width: 100%;
     overflow: auto;
     position: relative;  
     padding: 60px;
