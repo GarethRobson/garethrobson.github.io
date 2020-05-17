@@ -23,8 +23,8 @@
 <div class="header"> 
     <div class="hcard">
         <h1>Stories</h1>
+        <div><input id="myBtn" type="button" value="Click Me" onclick="CreateDivElement();" /></div>
     </div>
-    
 </div>
 
 <!-- Flexbox areas to change content of page to stories-->
@@ -101,6 +101,16 @@
     </div>
 </div>
 <!-- Flexbox areas to change content of page to stories-->
+
+<script type="text/javascript" language="javascript">
+    function CreateDivElement() {
+      var divElement = document.createElement("div");
+      divElement.id = "stDiv";
+      divElement.className = "stDivClass";
+      divElement.innerHTML = "Hello World!";
+      document.body.appendChild(divElement);
+    }
+</script>
 
 <!-- Footer -->
 <div class="footer">
