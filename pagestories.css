@@ -123,9 +123,11 @@
   /* changes for different pages above here */
 
   .stDivClass {
+    width: 250px;
+    height: 150px;
+    border: solid 1px #666;
     background-color: whitesmoke;
     padding: 20px;
-    margin-top: 20px;
   }
 
   /* Footer */
