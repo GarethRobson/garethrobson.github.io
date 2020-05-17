@@ -43,7 +43,6 @@
 
   /* header card and text */
   .hcard {
-    margin: auto;
     background: rgba(245, 245, 245, 0.5);
     position: absolute;
     left: 30%;
@@ -51,7 +50,6 @@
     width: 40%;
     text-align: center;
     padding: 2.5em;
-    /*border-radius: 10px; */
   }
   
   /* Column container */
