@@ -32,7 +32,6 @@
 
   /* Header */
   .header {
-    margin: auto;
     display: inline-block;
     position: relative;  
     padding: 60px;
@@ -44,6 +43,7 @@
 
   /* header card and text */
   .hcard {
+    margin: auto;
     background: rgba(245, 245, 245, 0.5);
     position: absolute;
     left: 30%;
