@@ -42,7 +42,7 @@
 
   /* header card and text */
   .hcard {
-    display: inline-block;
+    overflow: auto;
     background: rgba(245, 245, 245, 0.5);
     position: absolute;
     left: 30%;
