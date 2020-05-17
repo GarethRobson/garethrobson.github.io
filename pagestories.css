@@ -60,7 +60,7 @@
 
   /* Create two unequal columns that floats next to each other */
   /* Left column */
-  .main {
+  .stories {
     flex: 75%;
   }
 
@@ -134,7 +134,7 @@
   .footer {
     padding: 20px;
     text-align: center;  
-    background-image: url("/images/btilewhitebgnd.JPG")
+    background-image: url("/images/btilewhitebgnd.JPG");
   }
 
   /* Add a card effect for footer */
