@@ -52,11 +52,12 @@
     /*border-radius: 10px; */
   }
 
-  .submitstory{
-    right: 30%;
+  .submitstory {
+    right: 10%;
     top: 75%;
     width: 10%;
     background: rgba(245, 245, 245, 0.5);
+    padding: 0.5em;
   }
   
   /* Column container */
