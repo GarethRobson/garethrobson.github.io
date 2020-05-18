@@ -30,10 +30,6 @@
       color: black;
   }
 
-  .b {
-    position: right;
-  }
-
   /* Header */
   .header {
     position: relative;  
@@ -54,6 +50,10 @@
     text-align: center;
     padding: 2.5em;
     /*border-radius: 10px; */
+  }
+
+  .submitstory{
+    position: right;
   }
   
   /* Column container */
