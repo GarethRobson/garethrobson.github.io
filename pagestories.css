@@ -53,10 +53,11 @@
   }
 
   .submitstory {
+    background: rgba(245, 245, 245, 0.5);
     right: 10%;
     top: 75%;
-    width: auto;
-    background: rgba(245, 245, 245, 0.5);
+    width: 15%;
+    text-align: center;
     padding: 0.5em;
   }
   
