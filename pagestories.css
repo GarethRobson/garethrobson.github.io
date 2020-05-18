@@ -31,7 +31,7 @@
   }
 
   .b {
-    position: right;
+    object-position: right;
   }
 
   /* Header */
