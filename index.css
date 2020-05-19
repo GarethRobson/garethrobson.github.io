@@ -51,4 +51,18 @@ body {
   text-align: center;
   padding: 2.5em;
 }
-  
+
+.button {
+  border: none;
+  color: black;
+  padding: 20px;
+  cursor: pointer;
+}
+
+.buttonlogo {
+  width: 6em;
+  border-radius: 0%;
+  background-image: url("/images/logofullsize.jpeg");
+  background-size: cover;
+  background-position: center;
+}
