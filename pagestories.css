@@ -51,16 +51,6 @@
     padding: 2.5em;
     /*border-radius: 10px; */
   }
-
-  .submitstory {
-    background: rgba(245, 245, 245, 0.5);
-    position: absolute;
-    left: 35%;
-    top: 25%;
-    width: 15%;
-    text-align: center;
-    padding: 0.5em;
-  }
   
   /* Column container */
   .row {  
