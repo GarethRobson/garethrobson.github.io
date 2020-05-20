@@ -46,7 +46,7 @@ body {
   position: absolute;
   left: 28%;
   top: 23%;
-  max-width: 60%;
+  width: 50%;
   min-width: 200px;
   text-align: center;
   padding: 2.5em;
