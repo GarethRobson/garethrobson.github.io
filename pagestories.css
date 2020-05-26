@@ -59,12 +59,12 @@
 
   /* Create two unequal columns that floats next to each other */
   /* Left column */
-  .stories {
+  .main {
     flex: 75%;
   }
 
   /* Right column */
-  .side {
+  .aside {
     flex: 25%;
   }
 
