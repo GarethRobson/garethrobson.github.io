@@ -81,6 +81,13 @@
     padding: 20px;
     margin-top: 20px;
   }
+
+  /* Add a card effect for articles */
+  .article {
+    background-color: whitesmoke;
+    padding: 20px;
+    margin-top: 20px;
+  }
   
   /* Fake image, just for this example */
   .fakeimg {
