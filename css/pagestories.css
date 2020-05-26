@@ -74,7 +74,9 @@
       padding: 20px;
   }
 
-  #more {display: none;}
+  #more {
+    display: none;
+  }
   
   /* changes for different pages below here */
   /* Add a card effect for articles */
