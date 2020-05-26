@@ -73,6 +73,8 @@
       flex: 30%;
       padding: 20px;
   }
+
+  #more {display: none;}
   
   /* changes for different pages below here */
   /* Add a card effect for articles */
